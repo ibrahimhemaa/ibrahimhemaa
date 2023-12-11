@@ -3,8 +3,6 @@
 <img aline="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ibrahimhemaa&label=Profile%20views&color=0e75b6&style=flat" alt="ibrahimhemaa" /> </p>
 
-<p align="left"> <a href="https://twitter.com/_ibrahim_hisham" target="blank"><img src="https://img.shields.io/twitter/follow/_ibrahim_hisham?logo=twitter&style=for-the-badge" alt="_ibrahim_hisham" /></a> </p>
-
 - 🌱 I’m currently learning **Data Science**
 
 - 💬 Ask me about **Machine Learning , Deep Learning and problem solving**
