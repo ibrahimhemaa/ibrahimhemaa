@@ -3,7 +3,7 @@
 <img aline="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ibrahimhemaa&label=Profile%20views&color=0e75b6&style=flat" alt="ibrahimhemaa" /> </p>
 
-- 🌱 I’m  **SoftWare Engneering && Problem solver**
+- 🌱 I’m  **Software Engineering && Problem solver**
 
 - 📫 How to reach me **ibrahimhishamzz23@gmail.com**
 
