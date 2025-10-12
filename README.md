@@ -9,19 +9,19 @@
 
 ---
 
-### 💡 About Me
+###  About Me
 
-- 💻 I’m a **Software Engineer** passionate about designing and developing scalable web applications.  
-- 🌱 I enjoy working with **.NET Core, Angular, and SQL Server**.  
-- 🌍 Experienced with **GIS (ArcGIS APIs)** and full-stack development.  
-- 🤖 Enthusiastic about **AI, data-driven systems, and optimization**.  
-- ⚡ Constantly improving my problem-solving and competitive programming skills.  
-- 📫 Reach me at: **ibrahimhishamzz23@gmail.com**  
-- 📄 Learn more: [LinkedIn](https://www.linkedin.com/in/ibrahim-hisham-863545232/)
+-  I’m a **Software Engineer** passionate about designing and developing scalable web applications.  
+-  I enjoy working with **.NET Core, Angular, and SQL Server**.  
+-  Experienced with **GIS (ArcGIS APIs)** and full-stack development.  
+-  Enthusiastic about **AI, data-driven systems, and optimization**.  
+-  Constantly improving my problem-solving and competitive programming skills.  
+-  Reach me at: **ibrahimhishamzz23@gmail.com**  
+-  Learn more: [LinkedIn](https://www.linkedin.com/in/ibrahim-hisham-863545232/)
 
 ---
 
-### 🌐 Connect with Me
+### Connect with Me
 <p align="left">
 <a href="https://linkedin.com/in/ibrahim-hisham-863545232" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
