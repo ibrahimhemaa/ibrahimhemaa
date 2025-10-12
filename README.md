@@ -1,11 +1,11 @@
 <h1 align="center">👋 Hi, I'm Ibrahim Hisham</h1>
 <h3 align="center">Software Engineer</h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
+<!-- <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif"> -->
 
-<p align="left">
+<!-- <p align="left">
   <img src="https://komarev.com/ghpvc/?username=ibrahimhemaa&label=Profile%20views&color=0e75b6&style=flat" alt="ibrahimhemaa" />
-</p>
+</p> -->
 
 ---
 
