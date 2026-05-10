@@ -12,10 +12,6 @@
 - Sharpening competitive programming skills on **Codeforces** & **LeetCode**
 - Exploring **AI/ML** through Python and Jupyter projects
 
----
----
-
----
 
 ### 🛠️ Tech Stack
 
