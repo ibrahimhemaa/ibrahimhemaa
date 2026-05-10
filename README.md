@@ -28,25 +28,25 @@
 ### 💻 A Little More About Me...
 
 ```python
-class WhoAmI:
-    name        = "Ibrahim Hisham"
-    role        = "Software Engineer"
-    location    = "Cairo, Egypt 🇪🇬"
-    education   = "Cairo University"
+class IbrahimHisham:
 
-    stack = {
-        "backend":   [".NET Core", "C#", "REST APIs"],
-        "frontend":  ["Angular", "TypeScript", "React", "HTML/CSS"],
-        "database":  ["SQL Server", "T-SQL"],
-        "ml":        ["Python", "Jupyter", "TensorFlow"],
-        "other":     ["Git", "Java", "C++"],
-    }
+    def __init__(self):
+        self.role = "Software Engineer"
+        self.location = "Cairo, Egypt 🇪🇬"
+        self.education = "Cairo University"
 
-    competitive_programming = ["Codeforces", "LeetCode", "HackerRank"]
+        self.backend = [".NET Core", "C#", "REST APIs"]
+        self.frontend = ["Angular", "TypeScript", "React"]
+        self.database = ["SQL Server", "T-SQL"]
 
-    currently_learning = ["System Design", "Clean Architecture", "Docker"]
+        self.currently_learning = [
+            "System Design",
+            "Clean Architecture",
+            "Docker"
+        ]
 
-    fun_fact = "I debug with coffee ☕ and fix bugs with more coffee."
+    def say_hi(self):
+        return "I debug with coffee ☕"
 ```
 
 ---
