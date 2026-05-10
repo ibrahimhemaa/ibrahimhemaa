@@ -15,30 +15,6 @@
 ---
 ---
 
-### 💻 A Little More About Me...
-
-```python
-class IbrahimHisham:
-
-    def __init__(self):
-        self.role = "Software Engineer"
-        self.location = "Cairo, Egypt 🇪🇬"
-        self.education = "Cairo University"
-
-        self.backend = [".NET Core", "C#", "REST APIs"]
-        self.frontend = ["Angular", "TypeScript", "React"]
-        self.database = ["SQL Server", "T-SQL"]
-
-        self.currently_learning = [
-            "System Design",
-            "Clean Architecture",
-            "Docker"
-        ]
-
-    def say_hi(self):
-        return "I debug with coffee ☕"
-```
-
 ---
 
 ### 🛠️ Tech Stack
