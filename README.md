@@ -1,80 +1,101 @@
-<h1 align="center"> Hi, I'm Ibrahim Hisham</h1>
-<h3 align="center">Software Engineer</h3>
+<div align="center">
 
-<!-- <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif"> -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=2EA043&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Ibrahim+Hisham+%F0%9F%91%8B;Full-Stack+Software+Engineer;.NET+Core+%7C+Angular+%7C+SQL+Server;Always+building%2C+always+learning)](https://github.com/ibrahimhemaa)
 
-<!-- <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=ibrahimhemaa&label=Profile%20views&color=0e75b6&style=flat" alt="ibrahimhemaa" />
-</p> -->
+</div>
 
 ---
 
-###  About Me
+### 🚀 What I'm Working On
 
--  I’m a **Software Engineer** passionate about designing and developing scalable web applications.  
--  I enjoy working with **.NET Core, Angular, and SQL Server**.  
--  Experienced with **GIS (ArcGIS APIs)** and full-stack development.  
--  Enthusiastic about **AI, data-driven systems, and optimization**.  
--  Constantly improving my problem-solving and competitive programming skills.  
--  Reach me at: **ibrahimhishamzz23@gmail.com**  
--  Learn more: [LinkedIn](https://www.linkedin.com/in/ibrahim-hisham-863545232/)
+- Building full-stack web systems with **.NET Core** and **Angular**
+- Sharpening competitive programming skills on **Codeforces** & **LeetCode**
+- Exploring **AI/ML** through Python and Jupyter projects
 
 ---
 
-### Connect with Me
-<p align="left">
-<a href="https://linkedin.com/in/ibrahim-hisham-863545232" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-</a>
-<a href="https://kaggle.com/ibrahimhishamahmed" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" />
-</a>
-<a href="https://codeforces.com/profile/Ibrahim_Hisham_1" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="30" width="40" />
-</a>
-<a href="https://www.hackerrank.com/ibrahimhishamzz1" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
-</a>
-<a href="https://www.leetcode.com/sharlok_74" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
-</a>
-</p>
+### 🎯 Goals for 2025–2026
+
+- [ ] 🏢 Land a full-time Software Engineer role
+- [ ] 🌐 Build and deploy 3+ complete full-stack projects
+- [ ] 📈 Reach **Specialist** on Codeforces
+- [ ] 🤖 Complete an end-to-end ML project and publish it
+- [ ] 🧠 Contribute to an open source project
+- [ ] 📝 Write technical articles about .NET and Angular
 
 ---
 
-### 🛠️ Languages and Tools
-<p align="left">
-<a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" width="40" height="40"/>
-</a>
-<a href="https://angular.io/" target="_blank" rel="noreferrer">
-  <img src="https://angular.io/assets/images/logos/angular/angular.svg" width="40" height="40"/>
-</a>
-<a href="https://react.dev/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40"/>
-</a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
-</a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
-</a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/>
-</a>
-<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40" height="40"/>
-</a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
-</a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
-</a>
-</p>
+### 💻 A Little More About Me...
+
+```python
+class WhoAmI:
+    name        = "Ibrahim Hisham"
+    role        = "Software Engineer"
+    location    = "Cairo, Egypt 🇪🇬"
+    education   = "Cairo University"
+
+    stack = {
+        "backend":   [".NET Core", "C#", "REST APIs"],
+        "frontend":  ["Angular", "TypeScript", "React", "HTML/CSS"],
+        "database":  ["SQL Server", "T-SQL"],
+        "ml":        ["Python", "Jupyter", "TensorFlow"],
+        "other":     ["Git", "Java", "C++"],
+    }
+
+    competitive_programming = ["Codeforces", "LeetCode", "HackerRank"]
+
+    currently_learning = ["System Design", "Clean Architecture", "Docker"]
+
+    fun_fact = "I debug with coffee ☕ and fix bugs with more coffee."
+```
 
 ---
 
+### 🛠️ Tech Stack
+
+**Backend**
+![.NET](https://img.shields.io/badge/.NET_Core-512BD4?style=flat&logo=dotnet&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
+
+**Frontend**
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+**Other**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+---
+
+### ⚔️ Competitive Programming
+
+[![Codeforces](https://img.shields.io/badge/Codeforces-Ibrahim__Hisham__1-1F8ACB?style=flat&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Ibrahim_Hisham_1)
+[![LeetCode](https://img.shields.io/badge/LeetCode-sharlok__74-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/sharlok_74)
+[![HackerRank](https://img.shields.io/badge/HackerRank-ibrahimhishamzz1-2EC866?style=flat&logo=hackerrank&logoColor=white)](https://hackerrank.com/ibrahimhishamzz1)
+[![Kaggle](https://img.shields.io/badge/Kaggle-ibrahimhishamahmed-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://kaggle.com/ibrahimhishamahmed)
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+![Ibrahim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ibrahimhemaa&theme=github_dark_tritanopia&border_width=0.1&photo_quality=100&format=svg&hide=issues&border_radius=17.5&hide_border=true&stroke_color=1F6FEB&bg_color=0D1117)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ibrahimhemaa&theme=github-dark-blue&hide_border=true)
+
+![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ibrahimhemaa&theme=github_dark&hide_border=true&no-bg=true&no-frame=true&langs_count=6)
+
+</div>
+
+---
+
+### 📬 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ibrahim_Hisham-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ibrahim-hisham-863545232)
+[![Email](https://img.shields.io/badge/Email-ibrahimhishamzz23%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:ibrahimhishamzz23@gmail.com)
