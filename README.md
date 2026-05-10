@@ -20,7 +20,6 @@
 - [ ] 🌐 Build and deploy 3+ complete full-stack projects
 - [ ] 📈 Reach **Specialist** on Codeforces
 - [ ] 🤖 Complete an end-to-end ML project and publish it
-- [ ] 🧠 Contribute to an open source project
 - [ ] 📝 Write technical articles about .NET and Angular
 
 ---
