@@ -13,15 +13,6 @@
 - Exploring **AI/ML** through Python and Jupyter projects
 
 ---
-
-### 🎯 Goals for 2025–2026
-
-- [ ] 🏢 Land a full-time Software Engineer role
-- [ ] 🌐 Build and deploy 3+ complete full-stack projects
-- [ ] 📈 Reach **Specialist** on Codeforces
-- [ ] 🤖 Complete an end-to-end ML project and publish it
-- [ ] 📝 Write technical articles about .NET and Angular
-
 ---
 
 ### 💻 A Little More About Me...
